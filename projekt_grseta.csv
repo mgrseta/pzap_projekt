@@ -1,0 +1,201 @@
+id,vrsta_aktivnosti,samoprocjena,razina_stresa,kvaliteta_sna,opce_zadovoljstvo,dodatne_navike,socijalizacija
+1,ragbi,6,niska,vrlo dobra,4,setnja kucnog ljubimca,visa nego uobicajno
+2,plivanje,9,bez stresa,vrlo dobra,2,dodatni treninzi,visa nego uobicajno
+3,rukomet,5,niska,bolja nego uobicajno,7,hidratacija,visa nego uobicajno
+4,ples,3,niska,dobra,9,meditacija,visa nego uobicajno
+5,planinarenje,7,bez stresa,bolja nego uobicajno,2,bolji san,visa nego uobicajno
+6,odbojka,6,bez stresa,dobra,2,smanjenje stresa,visa nego uobicajno
+7,trcanje,5,visoka,losa,5,digitalni detox,visa nego uobicajno
+8,tenis,4,visoka,dobra,5,vrijeme u prirodi,visa nego uobicajno
+9,ples,3,bez stresa,bolja nego uobicajno,5,citanje knjige,visa nego uobicajno
+10,tenis,3,niska,vrlo dobra,8,smanjenje stresa,visa nego uobicajno
+11,odbojka,5,niska,vrlo dobra,4,meditacija,visa nego uobicajno
+12,nogomet,6,niska,dobra,5,digitalni detox,visa nego uobicajno
+13,planinarenje,4,niska,vrlo dobra,3,uravnotezena prehrana,visa nego uobicajno
+14,rukomet,5,bez stresa,dobra,6,dodatna briga o sebi,visa nego uobicajno
+15,plivanje,4,bez stresa,vrlo dobra,3,meditacija,visa nego uobicajno
+16,rukomet,4,niska,vrlo dobra,7,dodatna briga o sebi,visa nego uobicajno
+17,aerobik,8,niska,bolja nego uobicajno,4,vrijeme u prirodi,visa nego uobicajno
+18,rukomet,6,bez stresa,vrlo dobra,4,pozitivno razmisljanje,visa nego uobicajno
+19,pilates,5,bez stresa,dobra,5,pozitivno razmisljanje,visa nego uobicajno
+20,aerobik,3,niska,bolja nego uobicajno,4,bolji san,visa nego uobicajno
+21,voznja biciklom,5,niska,vrlo dobra,4,vrijeme u prirodi,visa nego uobicajno
+22,nogomet,4,niska,bolja nego uobicajno,10,uravnotezena prehrana,visa nego uobicajno
+23,nogomet,7,niska,vrlo dobra,0,smanjenje stresa,visa nego uobicajno
+24,trcanje,9,bez stresa,vrlo dobra,8,meditacija,visa nego uobicajno
+25,planinarenje,7,niska,bolja nego uobicajno,10,smanjenje stresa,visa nego uobicajno
+26,voznja biciklom,6,bez stresa,vrlo dobra,8,smanjenje opijata,visa nego uobicajno
+27,kosarka,3,niska,dobra,5,zdravo kuhanje,visa nego uobicajno
+28,plivanje,4,bez stresa,bolja nego uobicajno,8,meditacija,visa nego uobicajno
+29,voznja biciklom,5,niska,bolja nego uobicajno,7,smanjenje stresa,visa nego uobicajno
+30,pilates,5,bez stresa,dobra,1,pozitivno razmisljanje,visa nego uobicajno
+31,planinarenje,1,bez stresa,dobra,4,pozitivno razmisljanje,visa nego uobicajno
+32,grupni treninzi,0,niska,bolja nego uobicajno,4,smanjenje stresa,visa nego uobicajno
+33,grupni treninzi,9,niska,bolja nego uobicajno,7,vrijeme u prirodi,visa nego uobicajno
+34,brzo hodanje,5,niska,bolja nego uobicajno,5,redoviti zdravstevni pregledi,visa nego uobicajno
+35,tenis,2,niska,vrlo dobra,5,smanjenje koefina,visa nego uobicajno
+36,rukomet,2,bez stresa,vrlo dobra,2,dodatna briga o sebi,visa nego uobicajno
+37,trcanje,8,bez stresa,vrlo dobra,6,smanjenje koefina,visa nego uobicajno
+38,trcanje,5,niska,dobra,6,redoviti zdravstevni pregledi,visa nego uobicajno
+39,tenis,1,bez stresa,vrlo dobra,7,socijalizacija,visa nego uobicajno
+40,jahanje,6,bez stresa,dobra,8,dodatna briga o sebi,visa nego uobicajno
+41,tenis,1,bez stresa,bolja nego uobicajno,3,zdravo kuhanje,visa nego uobicajno
+42,nogomet,2,niska,bolja nego uobicajno,8,redoviti zdravstevni pregledi,visa nego uobicajno
+43,badminton,5,bez stresa,vrlo dobra,5,smanjenje koefina,visa nego uobicajno
+44,grupni treninzi,4,bez stresa,bolja nego uobicajno,2,smanjenje stresa,visa nego uobicajno
+45,planinarenje,0,niska,bolja nego uobicajno,9,bolji san,visa nego uobicajno
+46,rukomet,9,niska,bolja nego uobicajno,10,zdravo kuhanje,visa nego uobicajno
+47,ples,10,bez stresa,dobra,0,uravnotezena prehrana,visa nego uobicajno
+48,pilates,5,bez stresa,dobra,9,zdravo kuhanje,visa nego uobicajno
+49,voznja biciklom,0,bez stresa,dobra,3,vrijeme u prirodi,visa nego uobicajno
+50,voznja biciklom,2,niska,bolja nego uobicajno,8,dodatna briga o sebi,visa nego uobicajno
+51,kosarka,10,niska,vrlo dobra,10,bolji san,visa nego uobicajno
+52,plivanje,3,niska,bolja nego uobicajno,1,pozitivno razmisljanje,visa nego uobicajno
+53,ples,0,bez stresa,bolja nego uobicajno,8,smanjenje stresa,visa nego uobicajno
+54,aerobik,3,niska,dobra,5,meditacija,visa nego uobicajno
+55,teretana,0,bez stresa,vrlo dobra,8,digitalni detox,visa nego uobicajno
+56,badminton,0,bez stresa,vrlo dobra,2,smanjenje opijata,visa nego uobicajno
+57,brzo hodanje,3,niska,dobra,7,zdravo kuhanje,visa nego uobicajno
+58,brzo hodanje,5,bez stresa,bolja nego uobicajno,5,uravnotezena prehrana,visa nego uobicajno
+59,brzo hodanje,3,bez stresa,bolja nego uobicajno,10,smanjenje opijata,visa nego uobicajno
+60,grupni treninzi,1,bez stresa,dobra,7,hidratacija,visa nego uobicajno
+61,trcanje,2,bez stresa,dobra,8,uravnotezena prehrana,visa nego uobicajno
+62,ples,8,niska,vrlo dobra,2,bolji san,visa nego uobicajno
+63,nogomet,2,bez stresa,vrlo dobra,3,smanjenje stresa,visa nego uobicajno
+64,rukomet,7,bez stresa,dobra,10,zdravo kuhanje,visa nego uobicajno
+65,trcanje,3,bez stresa,bolja nego uobicajno,3,socijalizacija,visa nego uobicajno
+66,rukomet,7,niska,dobra,3,smanjenje koefina,visa nego uobicajno
+67,jahanje,8,bez stresa,dobra,9,meditacija,visa nego uobicajno
+68,trcanje,5,niska,dobra,9,redoviti zdravstevni pregledi,visa nego uobicajno
+69,planinarenje,1,bez stresa,bolja nego uobicajno,9,hidratacija,visa nego uobicajno
+70,rukomet,2,niska,vrlo dobra,4,pozitivno razmisljanje,visa nego uobicajno
+71,kosarka,6,niska,vrlo dobra,2,zdravo kuhanje,visa nego uobicajno
+72,badminton,8,bez stresa,vrlo dobra,9,uravnotezena prehrana,visa nego uobicajno
+73,trcanje,6,bez stresa,dobra,4,smanjenje koefina,visa nego uobicajno
+74,ples,4,niska,vrlo dobra,0,smanjenje stresa,visa nego uobicajno
+75,odbojka,3,bez stresa,dobra,8,smanjenje opijata,visa nego uobicajno
+76,kosarka,2,niska,dobra,8,pozitivno razmisljanje,visa nego uobicajno
+77,ples,7,niska,vrlo dobra,0,bolji san,visa nego uobicajno
+78,ples,1,visoka,losa,1,digitalni detox,visa nego uobicajno
+79,rukomet,4,bez stresa,dobra,1,smanjenje koefina,visa nego uobicajno
+80,planinarenje,1,bez stresa,dobra,6,socijalizacija,visa nego uobicajno
+81,pilates,9,niska,vrlo dobra,4,smanjenje koefina,visa nego uobicajno
+82,trcanje,7,niska,vrlo dobra,3,socijalizacija,visa nego uobicajno
+83,kosarka,8,bez stresa,vrlo dobra,5,vrijeme u prirodi,visa nego uobicajno
+84,kosarka,9,bez stresa,bolja nego uobicajno,1,dodatna briga o sebi,visa nego uobicajno
+85,rukomet,10,niska,dobra,6,bolji san,visa nego uobicajno
+86,pilates,9,bez stresa,dobra,9,smanjenje koefina,visa nego uobicajno
+87,grupni treninzi,9,bez stresa,vrlo dobra,4,smanjenje koefina,visa nego uobicajno
+88,rukomet,8,niska,bolja nego uobicajno,3,hidratacija,visa nego uobicajno
+89,planinarenje,5,bez stresa,dobra,9,digitalni detox,visa nego uobicajno
+90,ples,1,bez stresa,bolja nego uobicajno,1,zdravo kuhanje,visa nego uobicajno
+91,ples,4,bez stresa,vrlo dobra,3,dodatna briga o sebi,visa nego uobicajno
+92,planinarenje,0,bez stresa,bolja nego uobicajno,1,zdravo kuhanje,visa nego uobicajno
+93,grupni treninzi,3,visoka,dobra,4,zdravo kuhanje,visa nego uobicajno
+94,ples,9,bez stresa,dobra,6,smanjenje opijata,visa nego uobicajno
+95,aerobik,6,bez stresa,bolja nego uobicajno,3,hidratacija,visa nego uobicajno
+96,grupni treninzi,6,bez stresa,bolja nego uobicajno,7,meditacija,visa nego uobicajno
+97,nogomet,6,niska,vrlo dobra,8,digitalni detox,visa nego uobicajno
+98,brzo hodanje,9,niska,bolja nego uobicajno,1,zdravo kuhanje,visa nego uobicajno
+99,jahanje,6,niska,bolja nego uobicajno,2,uravnotezena prehrana,visa nego uobicajno
+100,plivanje,8,niska,bolja nego uobicajno,3,uravnotezena prehrana,visa nego uobicajno
+101,nogomet,8,niska,vrlo dobra,9,meditacija,visa nego uobicajno
+102,brzo hodanje,9,niska,vrlo dobra,8,zdravo kuhanje,visa nego uobicajno
+103,badminton,1,bez stresa,dobra,3,smanjenje opijata,visa nego uobicajno
+104,trcanje,9,niska,vrlo dobra,7,zdravo kuhanje,visa nego uobicajno
+105,plivanje,9,niska,bolja nego uobicajno,2,pozitivno razmisljanje,visa nego uobicajno
+106,trcanje,1,niska,bolja nego uobicajno,3,redoviti zdravstevni pregledi,visa nego uobicajno
+107,odbojka,8,niska,bolja nego uobicajno,10,vrijeme u prirodi,visa nego uobicajno
+108,brzo hodanje,8,bez stresa,vrlo dobra,2,pozitivno razmisljanje,visa nego uobicajno
+109,grupni treninzi,5,bez stresa,bolja nego uobicajno,1,meditacija,visa nego uobicajno
+110,tenis,1,bez stresa,dobra,10,digitalni detox,visa nego uobicajno
+111,odbojka,5,niska,dobra,3,socijalizacija,visa nego uobicajno
+112,ples,1,niska,dobra,10,digitalni detox,visa nego uobicajno
+113,aerobik,7,niska,vrlo dobra,3,hidratacija,visa nego uobicajno
+114,teretana,2,niska,dobra,6,socijalizacija,visa nego uobicajno
+115,kosarka,3,niska,dobra,3,bolji san,visa nego uobicajno
+116,trcanje,4,bez stresa,bolja nego uobicajno,9,zdravo kuhanje,visa nego uobicajno
+117,odbojka,3,bez stresa,dobra,6,socijalizacija,visa nego uobicajno
+118,grupni treninzi,3,bez stresa,vrlo dobra,0,hidratacija,visa nego uobicajno
+119,brzo hodanje,6,bez stresa,dobra,2,uravnotezena prehrana,visa nego uobicajno
+120,aerobik,10,bez stresa,vrlo dobra,1,pozitivno razmisljanje,visa nego uobicajno
+121,trcanje,7,bez stresa,vrlo dobra,4,bolji san,visa nego uobicajno
+122,aerobik,3,niska,dobra,2,smanjenje stresa,visa nego uobicajno
+123,planinarenje,3,niska,vrlo dobra,1,smanjenje koefina,visa nego uobicajno
+124,kosarka,5,bez stresa,vrlo dobra,6,socijalizacija,visa nego uobicajno
+125,odbojka,2,bez stresa,dobra,1,meditacija,visa nego uobicajno
+126,kosarka,5,niska,vrlo dobra,7,digitalni detox,visa nego uobicajno
+127,nogomet,3,niska,dobra,9,digitalni detox,visa nego uobicajno
+128,jahanje,2,bez stresa,bolja nego uobicajno,10,vrijeme u prirodi,visa nego uobicajno
+129,trcanje,8,niska,bolja nego uobicajno,6,socijalizacija,visa nego uobicajno
+130,nogomet,3,niska,vrlo dobra,8,smanjenje opijata,visa nego uobicajno
+131,kosarka,6,bez stresa,dobra,1,digitalni detox,visa nego uobicajno
+132,kosarka,8,niska,dobra,2,hidratacija,visa nego uobicajno
+133,badminton,2,niska,vrlo dobra,0,bolji san,visa nego uobicajno
+134,pilates,9,niska,vrlo dobra,4,jesiti više vlakna,visa nego uobicajno
+135,odbojka,0,visoka,dobra,5,smanjenje stresa,visa nego uobicajno
+136,plivanje,4,bez stresa,vrlo dobra,3,smanjenje stresa,visa nego uobicajno
+137,planinarenje,7,niska,vrlo dobra,5,bolji san,visa nego uobicajno
+138,planinarenje,5,niska,dobra,8,smanjenje koefina,visa nego uobicajno
+139,planinarenje,2,niska,vrlo dobra,8,meditacija,visa nego uobicajno
+140,ples,2,bez stresa,vrlo dobra,4,pozitivno razmisljanje,visa nego uobicajno
+141,brzo hodanje,7,bez stresa,vrlo dobra,4,digitalni detox,visa nego uobicajno
+142,grupni treninzi,5,niska,vrlo dobra,8,vrijeme u prirodi,visa nego uobicajno
+143,trcanje,6,bez stresa,dobra,5,smanjenje stresa,visa nego uobicajno
+144,nogomet,3,niska,dobra,7,meditacija,visa nego uobicajno
+145,aerobik,3,visoka,losa,4,uravnotezena prehrana,visa nego uobicajno
+146,pilates,4,niska,vrlo dobra,2,bolji san,visa nego uobicajno
+147,aerobik,2,bez stresa,bolja nego uobicajno,1,vrijeme u prirodi,visa nego uobicajno
+148,nogomet,8,niska,vrlo dobra,0,dodatna briga o sebi,visa nego uobicajno
+149,rukomet,8,niska,dobra,7,socijalizacija,visa nego uobicajno
+150,voznja biciklom,2,bez stresa,bolja nego uobicajno,10,dodatna briga o sebi,visa nego uobicajno
+151,odbojka,5,niska,dobra,4,meditacija,visa nego uobicajno
+152,brzo hodanje,8,bez stresa,vrlo dobra,3,vrijeme u prirodi,visa nego uobicajno
+153,aerobik,6,bez stresa,dobra,1,redoviti zdravstevni pregledi,visa nego uobicajno
+154,voznja biciklom,1,niska,bolja nego uobicajno,5,smanjenje stresa,visa nego uobicajno
+155,pilates,2,niska,dobra,6,vrijeme u prirodi,visa nego uobicajno
+156,jahanje,9,niska,bolja nego uobicajno,3,vrijeme u prirodi,visa nego uobicajno
+157,kosarka,10,bez stresa,bolja nego uobicajno,6,zdravo kuhanje,visa nego uobicajno
+158,planinarenje,1,bez stresa,bolja nego uobicajno,2,dodatna briga o sebi,visa nego uobicajno
+159,trcanje,4,niska,vrlo dobra,9,redoviti zdravstevni pregledi,visa nego uobicajno
+160,grupni treninzi,1,niska,bolja nego uobicajno,6,smanjenje stresa,visa nego uobicajno
+161,brzo hodanje,6,bez stresa,vrlo dobra,3,bolji san,visa nego uobicajno
+162,brzo hodanje,8,niska,vrlo dobra,3,hidratacija,visa nego uobicajno
+163,grupni treninzi,3,bez stresa,bolja nego uobicajno,2,redoviti zdravstevni pregledi,visa nego uobicajno
+164,kosarka,9,bez stresa,dobra,8,uravnotezena prehrana,visa nego uobicajno
+165,trcanje,7,bez stresa,bolja nego uobicajno,1,bolji san,visa nego uobicajno
+166,odbojka,0,bez stresa,bolja nego uobicajno,4,vrijeme u prirodi,visa nego uobicajno
+167,pilates,3,bez stresa,dobra,9,zdravo kuhanje,visa nego uobicajno
+168,rukomet,5,niska,dobra,4,uravnotezena prehrana,visa nego uobicajno
+169,pilates,3,niska,dobra,7,zdravo kuhanje,visa nego uobicajno
+170,badminton,8,bez stresa,dobra,0,zdravo kuhanje,visa nego uobicajno
+171,ples,8,bez stresa,bolja nego uobicajno,6,smanjenje opijata,visa nego uobicajno
+172,voznja biciklom,7,bez stresa,dobra,3,dodatna briga o sebi,visa nego uobicajno
+173,ragbi,9,niska,bolja nego uobicajno,5,zdravo kuhanje,visa nego uobicajno
+174,badminton,9,niska,vrlo dobra,8,u?enje novog jezika,visa nego uobicajno
+175,odbojka,10,bez stresa,dobra,3,dodatna briga o sebi,visa nego uobicajno
+176,nogomet,3,niska,dobra,1,socijalizacija,visa nego uobicajno
+177,ples,0,niska,vrlo dobra,8,digitalni detox,visa nego uobicajno
+178,nogomet,5,bez stresa,dobra,6,redoviti zdravstevni pregledi,visa nego uobicajno
+179,aerobik,2,bez stresa,vrlo dobra,8,smanjenje koefina,visa nego uobicajno
+180,aerobik,6,niska,vrlo dobra,6,redoviti zdravstevni pregledi,visa nego uobicajno
+181,odbojka,0,bez stresa,vrlo dobra,1,vrijeme u prirodi,visa nego uobicajno
+182,voznja biciklom,9,bez stresa,vrlo dobra,2,?itanje knjige,visa nego uobicajno
+183,trcanje,10,niska,bolja nego uobicajno,3,bolji san,visa nego uobicajno
+184,teretana,7,bez stresa,dobra,3,vrijeme u prirodi,visa nego uobicajno
+185,planinarenje,6,niska,bolja nego uobicajno,3,hidratacija,visa nego uobicajno
+186,voznja biciklom,2,niska,dobra,2,zdravo kuhanje,visa nego uobicajno
+187,teretana,4,niska,dobra,3,uravnotezena prehrana,visa nego uobicajno
+188,planinarenje,3,bez stresa,bolja nego uobicajno,10,meditacija,visa nego uobicajno
+189,teretana,3,niska,dobra,2,bolji san,visa nego uobicajno
+190,brzo hodanje,6,bez stresa,bolja nego uobicajno,10,pozitivno razmisljanje,visa nego uobicajno
+191,plivanje,5,bez stresa,dobra,10,uravnotezena prehrana,visa nego uobicajno
+192,aerobik,3,visoka,losa,4,uravnotezena prehrana,visa nego uobicajno
+193,plivanje,5,bez stresa,vrlo dobra,8,pozitivno razmisljanje,visa nego uobicajno
+194,kosarka,4,bez stresa,bolja nego uobicajno,4,bolji san,visa nego uobicajno
+195,teretana,5,bez stresa,vrlo dobra,5,smanjenje opijata,visa nego uobicajno
+196,badminton,2,niska,bolja nego uobicajno,8,pozitivno razmisljanje,visa nego uobicajno
+197,ples,7,visoka,dobra,5,slikanje,visa nego uobicajno
+198,teretana,8,niska,bolja nego uobicajno,7,uravnotezena prehrana,visa nego uobicajno
+199,badminton,10,niska,dobra,5,vrijeme u prirodi,visa nego uobicajno
+200,grupni treninzi,7,bez stresa,vrlo dobra,2,slikanje,visa nego uobicajno
